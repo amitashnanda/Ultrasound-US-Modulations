@@ -24,7 +24,7 @@ The script then repeats these steps for each frequency in the freq vector, with 
 
 In general, increasing the frequency of an ultrasound transducer can lead to a decrease in the RMS acoustic pressure field. This is because higher frequency sound waves have shorter wavelengths, which can cause them to be absorbed more easily  by the medium through which they propagate, resulting in a decrease in the intensity of the acoustic pressure field. 
 
-Effect of Attenuation coefficient on the pressure field with the selected frequency.
+## Effect of Attenuation coefficient on the pressure field with the selected frequency.
 
 The attenuation coefficient is a measure of how much the ultrasound wave is attenuated (i.e., weakened) as it propagates through the tissue. The higher the attenuation coefficient, the greater the amount of energy that  is lost as the wave travels through the tissue.
 
