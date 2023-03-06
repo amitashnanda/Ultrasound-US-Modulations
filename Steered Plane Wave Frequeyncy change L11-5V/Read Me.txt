@@ -1,0 +1,1 @@
+this folder has only images of the attenuated linear array because the non attenuated is 1 not realistic to the medical feild and 2 do not show changes due to changes in frequency.

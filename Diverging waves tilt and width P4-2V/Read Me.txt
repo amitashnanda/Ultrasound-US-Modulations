@@ -1,0 +1,4 @@
+the following folder has several tests.
+1.  files named 1-7 is the orignal test from the MUST example page 
+2. files named tilt part 1-21 is a second test including a full range of tilts from -60 degrees to 60 degrees by 21 equally spaced diverging waves 
+3. the "pressure field images" show a 0 degree tilt with increasing 10:10:120 degree's of width for the transducer
