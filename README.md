@@ -64,5 +64,5 @@ Therefore, selecting the appropriate frequency setting for the C5-2V convex ultr
 ![](/C5-2V/no_att/all.gif)
 
 ## P42V
-![](/P42V/no_att.all.gif)
+![](/P42V/no_att/all.gif)
 
